@@ -3,7 +3,7 @@ package server
 import (
 	"fmt"
 
-	"github.com/Dank-del/link-shortner-api/types"
+	"github.com/kvn-media/shortner-link-api/types"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )

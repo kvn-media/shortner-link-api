@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/Dank-del/link-shortner-api/types"
+	"github.com/kvn-media/shortner-link-api/types"
 
 	"github.com/Dank-del/link-shortner-api/database"
 	"github.com/labstack/echo/v4"

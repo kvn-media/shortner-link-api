@@ -3,7 +3,7 @@ package database
 import (
 	"log"
 
-	"github.com/Dank-del/link-shortner-api/types"
+	"github.com/kvn-media/shortner-link-api/types"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

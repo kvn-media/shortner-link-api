@@ -1,6 +1,6 @@
 package server
 
-import "github.com/Dank-del/link-shortner-api/server/routes"
+import "github.com/kvn-media/link-shortner-api/server/routes"
 
 func loadRoutes() {
 	ServerObject.GET("link", routes.GetRedirect)
