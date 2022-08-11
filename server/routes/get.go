@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	"github.com/kvn-media/shortner-link-api/database"
+	"github.com/Dank-del/link-shortner-api/database"
 	"github.com/labstack/echo/v4"
 )
 
