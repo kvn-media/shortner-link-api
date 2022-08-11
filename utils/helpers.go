@@ -2,7 +2,7 @@ package utils
 
 import (
 	"encoding/json"
-	"github.com/kvn-media/shortner-link-api/types"
+	"github.com/Dank-del/link-shortner-api/types"
 	"io/ioutil"
 	"log"
 	"unsafe"

@@ -3,8 +3,8 @@ package database
 import (
 	"time"
 
-	"github.com/kvn-media/shortner-link-api/types"
-	"github.com/kvn-media/shortner-link-api/utils"
+	"github.com/Dank-del/link-shortner-api/types"
+	"github.com/Dank-del/link-shortner-api/utils"
 )
 
 func CreateNewShortenedLink(url string) *types.ShortenedLink {
