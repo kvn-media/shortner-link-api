@@ -3,7 +3,7 @@ module shortner-link
 go 1.18
 
 require (
-	github.com/Dank-del/link-shortner-api v0.0.0-20220807084504-7b0249fba0e4 // indirect
+	github.com/kvn-media/shortner-link-api v0.0.0-20220807084504-7b0249fba0e4 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
