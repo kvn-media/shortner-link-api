@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/kvn-media/link-shortner-api/database"
-	"github.com/kvn-media/link-shortner-api/server"
-	"github.com/kvn-media/link-shortner-api/utils"
+	"github.com/kvn-media/shortner-link-api/database"
+	"github.com/kvn-media/shortner-link-api/server"
+	"github.com/kvn-media/shortner-link-api/utils"
 )
 
 func main() {
